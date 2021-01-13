@@ -23,11 +23,11 @@
 ..
 <img src="https://user-images.githubusercontent.com/44917891/104461361-417c6b00-55d5-11eb-941d-b4743c79f51a.jpg" width="400" height="750">     
 ..
-<img src="https://user-images.githubusercontent.com/44917891/104294102-ccca0380-54e4-11eb-8d13-4d612af99571.jpg" width="400" height="750">     
+
 ..
 <img src="https://user-images.githubusercontent.com/44917891/104461377-46411f00-55d5-11eb-96d7-51f26dab0eeb.jpg" width="400" height="750">     
 ..
-<img src="https://user-images.githubusercontent.com/44917891/104294102-ccca0380-54e4-11eb-8d13-4d612af99571.jpg" width="400" height="750">     
+ 
 ..
 <img src="https://user-images.githubusercontent.com/44917891/104461421-522ce100-55d5-11eb-9a00-da53ebad6749.jpg" width="400" height="750">     
 ..
