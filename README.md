@@ -1,16 +1,15 @@
-# coders_point
+## Coders Point
 
-A new Flutter application.
+👋 ❤️This is Flutter application made it like Online education apps.This is like Udemy, Sololearn, Coursera apps.
 
-## Getting Started
+🟢 Added Splash Screen
 
-This project is a starting point for a Flutter application.
+🟢 In this app , I added courses like Python, Dart, Flutter. 
 
-A few resources to get you started if this is your first Flutter project:
+🟢 I seprated the level of studying like Beginner, Intermediate, Advanced. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+🟢 using this app you can easily study and understand without any disturbances and offline. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🟢 We added example like coding and also suntax of the program for understanding purposes.
+
+🟢 In Back AppBar I added About page I am added some social network account links in that page.
