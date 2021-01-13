@@ -17,18 +17,6 @@
 
 # 🤳 ScreenShots 👀 
 
-
-
-<img src="https://user-images.githubusercontent.com/44917891/104461327-3a555d00-55d5-11eb-9221-efa4c7acd20c.jpg" width="400" height="750"> 
-..
-<img src="https://user-images.githubusercontent.com/44917891/104461361-417c6b00-55d5-11eb-941d-b4743c79f51a.jpg" width="400" height="750">     
-..
-
-..
-<img src="https://user-images.githubusercontent.com/44917891/104461377-46411f00-55d5-11eb-96d7-51f26dab0eeb.jpg" width="400" height="750">     
-..
- 
-..
 <img src="https://user-images.githubusercontent.com/44917891/104461421-522ce100-55d5-11eb-9a00-da53ebad6749.jpg" width="400" height="750">     
 ..
 <img src="https://user-images.githubusercontent.com/44917891/104461410-4e995a00-55d5-11eb-804a-892f99ee42b9.jpg" width="400" height="750">     
