@@ -2,7 +2,9 @@
 
 ```
 
-👋 ❤️This is Flutter application made it like Online education apps.This is like Udemy, Sololearn, Coursera apps.
+👋 ❤️This is Flutter application made it like Online education apps.
+
+🟢 This is like Udemy, Sololearn, Coursera apps.
 
 🟢 Added Splash Screen
 
