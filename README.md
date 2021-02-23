@@ -14,7 +14,7 @@
 
 🟢 using this app you can easily study and understand without any disturbances and offline. 
 
-🟢 We added example like coding and also suntax of the program for understanding purposes.
+🟢 We added example like coding and also syntax of the program for understanding purposes.
 
 🟢 In Back AppBar I added About page I am added some social network account links in that page.
 
